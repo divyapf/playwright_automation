@@ -1,0 +1,7 @@
+# These are the Python packages this project needs.
+# Install them by running: pip install -r requirements.txt
+
+pytest                  # The tool that runs our tests
+playwright              # The tool that controls the browser
+pytest-playwright       # Connects pytest and playwright together
+pytest-html             # Creates nice HTML test reports
